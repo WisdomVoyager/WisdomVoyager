@@ -24,7 +24,7 @@ I'm a budding analyst from India, weaving through the intricate tapestry of busi
 
 - :computer: As an aspiring analyst and future consultant, I thrive on unraveling complex challenges, polishing my analytical prowess on platforms like Hackerrank and LeetCode, and listening to podcasts. 
 
-- :mailbox: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-rishika--kumar-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/rishika-kumar-")
+- :mailbox: How to reach me :  [![Linkedin Badge](https://img.shields.io/badge/-rishika--kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rishika-kumar-)
  [![Email Badge](https://img.shields.io/badge/-rishikakumar2006%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:rishikakumar2006@gmail.com)
 
 

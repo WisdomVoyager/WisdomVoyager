@@ -28,7 +28,7 @@ I'm a budding analyst from India, weaving through the intricate tapestry of busi
  [![Email Badge](https://img.shields.io/badge/-rishikakumar2006%40gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:rishikakumar2006@gmail.com)
 
 
-### :hammer_and_wrench: Languages and Tools :
+### <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="45px"> Languages and Tools :
 
 <div>
   

@@ -15,7 +15,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300" height="300"/>
 </div>
 
-###  :  About Me :
+###:  About Me :
 I'm a budding analyst from India, weaving through the intricate tapestry of business puzzles, and adding a pinch of spice to the world. 🌱💡 Let's transform data into a dazzling spectacle of insights and create a splash of positive change together! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> 
 
 - :bar_chart: Currently, I'm on a data safari, hacking through the jungle of complex datasets with SQL, Python, and Power BI. Unleashing the power of tech Tarzan style to swing from insights to impactful decisions! 🚀
